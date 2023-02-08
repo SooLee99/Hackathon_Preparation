@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79824154174",
+    "project_id": "ideamarathon-216fe",
+    "storage_bucket": "ideamarathon-216fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79824154174:android:b6411dcde307f72cdfeb6f",
+        "android_client_info": {
+          "package_name": "com.example.ideamarathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79824154174-8nnukno8bqda4a68epuvn73a5u3s0kmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7OmjDXUGwBr7mX2F2fhhl-hSmo7dM7ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79824154174-8nnukno8bqda4a68epuvn73a5u3s0kmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
